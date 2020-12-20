@@ -1,9 +1,9 @@
 # AWS Account Vending Machine
 
 ## Features
-- Built a serverless and dynamic Account Vending Machine to create AWS accounts and Organizational Units. 
-- Implemented Lambda and Step functions to interact with AWS Organizations and CloudFormation templates. 
-- Employed Amazon S3, SNS, and SES to trigger notiﬁcations and store information about created accounts.
+- A serverless and dynamic Account Vending Machine to create AWS accounts and Organizational Units. 
+- Lambda and Step functions to interact with AWS Organizations and CloudFormation templates. 
+- Amazon S3, SNS, and SES to trigger notiﬁcations and store information about created accounts.
 
 ## System Flow
 ![Architecture](images/AccountVendingMachine.png)
